@@ -7,6 +7,3 @@ for i in range(len(encrypt)):
     tmp = encrypt[i] ^ ord(outp[i]) ^ ord(outp[i])
     Flag += chr(tmp ^ ord(inp[i]))
 print Flag
-
-for i in range(len(encrypt)):
-    print chr(encrypt[i])
