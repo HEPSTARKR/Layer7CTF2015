@@ -53,8 +53,7 @@ int sub_401060()
 	{
 		result = 0;
 	}
-	//if(result)
-	//printf("v6 = %lX\nv2 = %lx\n",v6,v2);
+	
 	return result;
 }
 
