@@ -207,8 +207,6 @@ int main(void)
 {
 	int result, aa, i;
 
-	//printf("input : %s",hostlong);
-	//scanf("%s", &hostlong);
 for(i = 0x4141; i <= 0x7a7a; i++)
 {
 for(aa = 0x4141; aa <= 0x7a7a; aa++)
